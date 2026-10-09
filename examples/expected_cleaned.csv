@@ -1,0 +1,5 @@
+first_name,email_address,product_url,price
+John Smith,john@example.com,https://example.com/Shop?id=1#top,19.99
+Jane Doe,jane.doe@example,not a url,7.50
+Ana Pérez,ana@example.org,http://www.example.org/Ana,
+Bob Stone,,https://example.net/bob,12

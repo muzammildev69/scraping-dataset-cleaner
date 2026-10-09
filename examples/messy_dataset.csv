@@ -1,0 +1,8 @@
+ First Name ,Email Address,Product-URL,PRICE ($),Notes
+  John Smith  , John@Example.COM ,  https://Example.com/Shop?id=1#top ,19.99,scraped on monday
+John Smith,john@example.com,https://example.com/Shop?id=1#top,19.99,duplicate of row above
+,,,,
+   ,   ,   ,   ,   
+Jane Doe,jane.doe@example,not a url,  7.50 ,bad email and url
+Ana Pérez,ANA@EXAMPLE.ORG,HTTP://WWW.Example.org/Ana,,missing price
+Bob Stone,,https://example.net/bob,12,no email
